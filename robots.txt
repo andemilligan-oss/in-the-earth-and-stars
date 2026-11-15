@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andemilligan-oss.github.io/in-the-earth-and-stars/sitemap.xml
